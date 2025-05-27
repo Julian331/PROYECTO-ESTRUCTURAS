@@ -244,7 +244,7 @@
 
 ---
 
-## 🔍 **Comparativa General**
+## **Comparativa General**
 | **Criterio**       | **Cola Simple** | **Cola Circular** | **Cola de Prioridad** |
 |--------------------|-----------------|-------------------|-----------------------|
 | **Estructura**     | Lineal          | Arreglo circular  | Heap/Lista ordenada   |
