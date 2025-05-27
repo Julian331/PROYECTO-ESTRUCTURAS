@@ -1,12 +1,8 @@
 # PROYECTO-ESTRUCTURAS
 
 # Listas Doblemente Enlazadas
-# Listas Doblemente Enlazadas  
-*(Exposición Teórica)*  
 
----
-
-## 🌐 **Concepto Básico**  
+## **Concepto Básico**  
 Estructura de datos lineal donde:  
 - Cada **nodo** contiene:  
   - Un **valor** (dato).  
@@ -22,7 +18,7 @@ null ⇄ [5] ⇄ [8] ⇄ [3] ⇄ null
 
 ---
 
-## 🔄 **Características Clave**  
+## **Características **  
 1. **Recorrido bidireccional**:  
    - Se puede iterar desde la cabeza hacia adelante.  
    - O desde la cola hacia atrás.  
@@ -34,7 +30,7 @@ null ⇄ [5] ⇄ [8] ⇄ [3] ⇄ null
 
 ---
 
-## ⚙️ **Operaciones Principales**  
+## **Operaciones **  
 
 ### **Inserción**  
 - **Al inicio**:  
@@ -54,7 +50,7 @@ null ⇄ [5] ⇄ [8] ⇄ [3] ⇄ null
 
 ---
 
-## 📊 **Comparación con Listas Simples**  
+## **Comparación con Listas Simples**  
 
 | **Aspecto**       | **Lista Simple** | **Lista Doble** |  
 |--------------------|------------------|-----------------|  
@@ -67,20 +63,20 @@ null ⇄ [5] ⇄ [8] ⇄ [3] ⇄ null
 
 ---
 
-## 🏆 **Ventajas**  
+## **Ventajas**  
 1. **Eficiencia en operaciones de extremos**.  
 2. **Historial de acciones**: Ideal para "rehacer/deshacer" (ej: editores de texto).  
 3. **Navegación flexible**: Aplicaciones como galerías o reproductores de música.  
 
 ---
 
-## ⚠️ **Desventajas**  
+## **Desventajas**  
 1. **Mayor consumo de memoria** (por el puntero adicional).  
 2. **Implementación más compleja** (manejo de 2 punteros por nodo).  
 
 ---
 
-## 🎯 **Aplicaciones Prácticas**  
+## **Aplicaciones Prácticas**  
 1. **Navegadores web**: Historial de páginas visitadas.  
 2. **Sistemas de caché**: Como el algoritmo LRU.  
 3. **Editores gráficos**: Pilas de acciones para revertir cambios.  
