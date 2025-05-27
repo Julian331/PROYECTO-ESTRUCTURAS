@@ -81,7 +81,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-# Pilas (Stacks) - Mapa Conceptual
+# Pilas 
 
 ## **Concepto General**
 - **LIFO**: Last In, First Out (Último en entrar, primero en salir).
